@@ -1,0 +1,76 @@
+# The Ultimate TTS Challenge: "The Quantum Heist"
+
+*A comprehensive test designed to push AI voices to their absolute limits*
+
+## Chapter 1: The Setup (Garden Path Sentences & Ambiguity)
+
+The old man the boats on the shore were manned by had seen stranger things than Dr. Ingrid Sørensen-Müller, the Norwegian-German quantum physicist, attempting to explain Schrödinger's equation (iℏ ∂ψ/∂t = Ĥψ) to the CEO of the multinational corporation at 2:30 AM on a Tuesday.
+
+Since the meeting that had been scheduled for months—which, despite everyone's best efforts to coordinate across seven time zones (GMT+1, EST, PST, JST, etc.), had been postponed three times due to what the FBI described as "highly unusual circumstances"—was finally taking place, the tension in the room was palpable.
+
+## Chapter 2: The Heist (Homophones, Numbers & Technical Jargon)
+
+"The vault's access code is 47-Alpha-92-Beta," whispered Agent Chen into her encrypted device, watching as the laser grid—which operated at λ = 632.8 nm—shifted every 0.003 seconds. "But there's a catch: the security system uses quantum entanglement to detect ANY disturbance."
+
+Dr. Kowalski paused mid-stride. "Did you say the PRINCIPAL amount is $47,000,000.00 or that the PRINCIPLE of quantum superposition applies here?" His accent made the distinction crucial.
+
+"Both," she replied with grim irony. "The money's there, but it exists in multiple states simultaneously until observed. We're dealing with literal quantum cryptography—every bit measured in qubits, not bytes."
+
+The date/time stamp read: 03/15/2025, 15:30:45.732 GMT. Temperature: -2.7°C. Atmospheric pressure: 1013.25 hPa.
+
+## Chapter 3: The Confrontation (Emotional Range & Character Voices)
+
+**Dr. Sørensen-Müller** (frantic, high-pitched): "You don't understand! The quantum state will collapse if we observe it directly! We need to use the many-worlds interpretation—"
+
+**Agent Chen** (coldly professional): "I couldn't care less about your theoretical physics, Doctor. Twenty-seven million dollars has been stolen, and I WILL find who took it."
+
+**The Mysterious Hacker** (sardonic, slightly mocking): "Oh, how delightfully naive. You're both wrong, you know. The money was never 'there' to begin with—it was distributed across seventeen different quantum states. *Clever*, don't you think?"
+
+**Old Janitor Dmitri** (heavily accented, slow and wise): "In my country, we have saying: 'Кто ищет, тот всегда найдёт'—who seeks, always finds. But sometimes, what you find is not what you sought."
+
+## Chapter 4: The Science (Complex Technical Content)
+
+The quantum entanglement device operated on several principles:
+
+1. **Heisenberg's Uncertainty Principle**: Δx × Δp ≥ ℏ/2
+2. **Bell's Theorem violations**: Measured at 2.82 ± 0.05 (theoretical maximum: 2√2 ≈ 2.828)
+3. **Quantum decoherence time**: τ = 10⁻¹² seconds at room temperature (293.15 K)
+
+"The probability amplitude," Dr. Sørensen-Müller explained, writing frantically, "is |ψ⟩ = α|0⟩ + β|1⟩, where |α|² + |β|² = 1. But here's the catch—someone has been manipulating the phase relationships!"
+
+## Chapter 5: The Revelation (Punctuation Complexity & Nested Quotations)
+
+The breakthrough came when Agent Chen discovered the message: "Remember what Shakespeare wrote: 'All that glisters is not gold'—but what he DIDN'T say was that sometimes gold isn't gold at all."
+
+"Wait," interrupted Dr. Kowalski, his eyes widening, "did you just quote Merchant of Venice? Because the actual line is 'All that glisters is not gold' (from Act II, Scene VII), not 'glitters'—the difference matters here because—"
+
+"Because," the Hacker's voice crackled through the speakers, "GLITTERS refers to the quantum phenomenon where particles appear to 'glitter' between states, while GLISTERS refers to the false appearance of value. You see, I never stole money that existed—I stole money that MIGHT exist."
+
+## Chapter 6: The Resolution (Prosodic Challenges & Emotional Climax)
+
+**Chen** (shouting): "Enough riddles! Where... is... the... money?"
+
+**Hacker** (laughing maniacally): "Oh my dear Agent Chen—so literal-minded! The money is everywhere and nowhere. It's in a superposition state until someone observes it. And the beautiful irony? The more you search for it, the less likely you are to find it. Quantum mechanics, you see, has a sense of humor."
+
+**Dr. Sørensen-Müller** (suddenly understanding, voice rising with excitement): "Wait! I've got it! The uncertainty principle means that the act of measurement affects the system! The money EXISTS in probability space—we just need to stop looking for it!"
+
+And thus, the case that had baffled the FBI, CIA, NSA, Interpol, and the International Quantum Research Consortium was solved not through traditional investigation, but through the fundamental understanding that some things are true precisely because they cannot be observed.
+
+*The End*
+
+---
+
+## Testing Notes:
+
+This sample challenges TTS systems with:
+- **Homographs**: principal/principle, desert/dessert, lead/lead, bass/bass
+- **Complex names**: Sørensen-Müller, Wojciech, Ingrid, Dmitri
+- **Scientific notation**: Mathematical equations, Greek letters, quantum symbols
+- **Multiple languages**: Norwegian phrase, Shakespeare quotes
+- **Emotional range**: Frantic, cold, sarcastic, wise, excited
+- **Technical jargon**: Quantum physics terms, FBI acronyms, measurements
+- **Complex punctuation**: Em dashes, parentheses, quotations within quotations
+- **Numbers**: Dates, times, coordinates, monetary amounts, scientific values
+- **Garden path sentences**: Deliberately confusing grammatical structures
+
+Use this to identify which voices handle complexity best for different audiobook genres!

@@ -1,0 +1,35 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+# Local AI TTS Models
+kokoro = ">=0.9.4"
+# TTS-related audio processing
+soundfile = "*"
+torch = "*"
+torchaudio = "*"
+numpy = "*"
+scipy = "*"
+# Book processing
+ebooklib = "*"
+beautifulsoup4 = "*"
+markdown = "*"
+pyyaml = "*"
+# CLI and UI
+typer = "*"
+rich = "*"
+# Optional: Other local TTS models
+# coqui-tts = "*"  # Uncomment when needed
+
+[dev-packages]
+jupyter = "*"
+notebook = "*"
+jupyterlab = "*"
+black = "*"
+flake8 = "*"
+pytest = "*"
+
+[requires]
+python_version = "3.11"
